@@ -1,0 +1,11 @@
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\obj\x86\Release\SUPERCLIENTE PRINCIPAL (login).csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\obj\x86\Release\SUPERCLIENTE_PRINCIPAL.Form1.resources
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\obj\x86\Release\SUPERCLIENTE_PRINCIPAL.Form2.resources
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\obj\x86\Release\SUPERCLIENTE_PRINCIPAL.Form3.resources
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\obj\x86\Release\SUPERCLIENTE_PRINCIPAL.Form4.resources
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\obj\x86\Release\SUPERCLIENTE_PRINCIPAL.Properties.Resources.resources
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\obj\x86\Release\SUPERCLIENTE PRINCIPAL (login).csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\bin\Release\SUPERCLIENTE PRINCIPAL (login).exe
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\bin\Release\SUPERCLIENTE PRINCIPAL (login).pdb
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\obj\x86\Release\SUPERCLIENTE PRINCIPAL (login).exe
+C:\Users\Javier\Desktop\Uno SO\Cliente\SUPERCLIENTE PRINCIPAL (login)\obj\x86\Release\SUPERCLIENTE PRINCIPAL (login).pdb

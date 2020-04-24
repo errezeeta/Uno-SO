@@ -24,8 +24,8 @@ namespace SUPERCLIENTE_PRINCIPAL
             //pictureBox1.Image = Image.FromFile("foto_uno.gif");
             //Creamos un IPEndPoint con el ip del servidor y puerto del servidor 
             //al que deseamos conectarnos
-            IPAddress direc = IPAddress.Parse("192.168.1.138");
-            IPEndPoint ipep = new IPEndPoint(direc, 9050);
+            IPAddress direc = IPAddress.Parse("147.83.117.22");
+            IPEndPoint ipep = new IPEndPoint(direc, 50063);
 
 
             //Creamos el socket 

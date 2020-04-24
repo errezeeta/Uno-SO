@@ -46,8 +46,8 @@ namespace SUPERCLIENTE_PRINCIPAL
             //pictureBox1.Image = Image.FromFile("foto_uno.gif");
             //Creamos un IPEndPoint con el ip del servidor y puerto del servidor 
             //al que deseamos conectarnos
-            IPAddress direc = IPAddress.Parse("192.168.1.138");
-            IPEndPoint ipep = new IPEndPoint(direc, 9050);
+            IPAddress direc = IPAddress.Parse("147.83.117.22");
+            IPEndPoint ipep = new IPEndPoint(direc, 50063);
 
 
             //Creamos el socket 
@@ -87,7 +87,7 @@ namespace SUPERCLIENTE_PRINCIPAL
             while (true)
             {
                 //recibimos  mensaje del servidor
-                byte[] msgr = new byte[100];
+                byte[] msgr = new byte[300];
                 server.Receive(msgr);
                 string[] trozos = Encoding.ASCII.GetString(msgr).Split('/');// partimos por la barra, [] tienes al menos 2 strings
                 int codigo = Convert.ToInt32(trozos[0]);// el primer string lo convierte a numero
@@ -216,71 +216,10 @@ namespace SUPERCLIENTE_PRINCIPAL
         }
         
 
-        private void Longitud_CheckedChanged(object sender, EventArgs e)
-        {
-            nombre.Enabled = false;
-        }
-
-        private void altura_CheckedChanged(object sender, EventArgs e)
-        {
-            nombre.Enabled = true;
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-            nombre.Enabled = false;
-
-        }
-
+        
         private void pictureBox1_Click(object sender, EventArgs e)
         {
           
-        }
-
-        private void Bonito_CheckedChanged(object sender, EventArgs e)
-        {
-            nombre.Enabled = false;
-        }
-
-        private void label2_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void contlbl_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged_1(object sender, EventArgs e)
-        {
-           
-        }
-
-        private void enviarchat_Click(object sender, EventArgs e)
-        {
-         
-        }
-
-        private void groupBox2_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void siguiente_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void CHAT_Click(object sender, EventArgs e)
-        {
-           
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-            
         }
 
         private void CHAT_Click_1(object sender, EventArgs e)
@@ -290,10 +229,33 @@ namespace SUPERCLIENTE_PRINCIPAL
             
         }
 
-        private void Longitud_CheckedChanged_1(object sender, EventArgs e)
+        private void altura_CheckedChanged(object sender, EventArgs e)
         {
-
+            nombre.Enabled = true;
         }
+
+        private void Bonito_CheckedChanged(object sender, EventArgs e)
+        {
+            nombre.Enabled = false;
+        }
+
+        private void Longitud_CheckedChanged(object sender, EventArgs e)
+        {
+            nombre.Enabled = false;
+        }
+
+        private void DameCon_Click(object sender, EventArgs e)
+        {
+            string mensaje = "8/-";
+            byte[] msge = System.Text.Encoding.ASCII.GetBytes(mensaje);
+            server.Send(msge);
+        }
+
+        
+
+
+
+        
 
 }
     
