@@ -1,0 +1,20 @@
+C:\Users\ricar\Desktop\todo SO\Version 5\version 5(UNO)\version 5(UNO)\obj\x86\Debug\Form1.Form1.resources
+C:\Users\ricar\Desktop\todo SO\Version 5\version 5(UNO)\version 5(UNO)\obj\x86\Debug\Form1.Partida.resources
+C:\Users\ricar\Desktop\todo SO\Version 5\version 5(UNO)\version 5(UNO)\obj\x86\Debug\Form1.Properties.Resources.resources
+C:\Users\ricar\Desktop\todo SO\Version 5\version 5(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).csproj.GenerateResource.Cache
+C:\Users\ricar\Desktop\todo SO\Version 5\version 5(UNO)\version 5(UNO)\bin\Debug\version 5(UNO).exe
+C:\Users\ricar\Desktop\todo SO\Version 5\version 5(UNO)\version 5(UNO)\bin\Debug\version 5(UNO).pdb
+C:\Users\ricar\Desktop\todo SO\Version 5\version 5(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).exe
+C:\Users\ricar\Desktop\todo SO\Version 5\version 5(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).pdb
+C:\Users\ricar\Desktop\todo SO\Version 5\version 5(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).csprojResolveAssemblyReference.cache
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).exe
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).pdb
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).exe
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).pdb
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5.1(UNO)\version 5(UNO)\bin\Debug\version 5(UNO).exe
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5.1(UNO)\version 5(UNO)\bin\Debug\version 5(UNO).pdb
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).csprojResolveAssemblyReference.cache
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\Form1.Form1.resources
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\Form1.Partida.resources
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\Form1.Properties.Resources.resources
+C:\Users\ricar\Desktop\todo SO\Version 5 .1\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).csproj.GenerateResource.Cache

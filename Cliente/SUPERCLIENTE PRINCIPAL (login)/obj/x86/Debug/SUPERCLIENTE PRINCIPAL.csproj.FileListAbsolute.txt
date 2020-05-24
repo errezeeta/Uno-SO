@@ -1,8 +1,0 @@
-C:\Users\ricar\AppData\Local\Temporary Projects\SUPERCLIENTE PRINCIPAL\bin\Debug\SUPERCLIENTE PRINCIPAL.exe
-C:\Users\ricar\AppData\Local\Temporary Projects\SUPERCLIENTE PRINCIPAL\bin\Debug\SUPERCLIENTE PRINCIPAL.pdb
-C:\Users\ricar\AppData\Local\Temporary Projects\SUPERCLIENTE PRINCIPAL\obj\x86\Debug\SUPERCLIENTE_PRINCIPAL.Form1.resources
-C:\Users\ricar\AppData\Local\Temporary Projects\SUPERCLIENTE PRINCIPAL\obj\x86\Debug\SUPERCLIENTE_PRINCIPAL.Form2.resources
-C:\Users\ricar\AppData\Local\Temporary Projects\SUPERCLIENTE PRINCIPAL\obj\x86\Debug\SUPERCLIENTE_PRINCIPAL.Properties.Resources.resources
-C:\Users\ricar\AppData\Local\Temporary Projects\SUPERCLIENTE PRINCIPAL\obj\x86\Debug\SUPERCLIENTE PRINCIPAL.csproj.GenerateResource.Cache
-C:\Users\ricar\AppData\Local\Temporary Projects\SUPERCLIENTE PRINCIPAL\obj\x86\Debug\SUPERCLIENTE PRINCIPAL.exe
-C:\Users\ricar\AppData\Local\Temporary Projects\SUPERCLIENTE PRINCIPAL\obj\x86\Debug\SUPERCLIENTE PRINCIPAL.pdb
