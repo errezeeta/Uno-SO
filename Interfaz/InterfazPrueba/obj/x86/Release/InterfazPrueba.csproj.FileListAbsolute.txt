@@ -1,3 +1,0 @@
-C:\Users\Javier\Desktop\InterfazPrueba\InterfazPrueba\obj\x86\Release\WindowsFormsApplication1.Form1.resources
-C:\Users\Javier\Desktop\InterfazPrueba\InterfazPrueba\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\Javier\Desktop\InterfazPrueba\InterfazPrueba\obj\x86\Release\InterfazPrueba.csproj.GenerateResource.Cache

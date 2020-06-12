@@ -1,0 +1,25 @@
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\bin\Release\version 5(UNO).exe
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\bin\Release\version 5(UNO).pdb
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Release\Form1.Form1.resources
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Release\Form1.Partida.resources
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Release\Form1.Properties.Resources.resources
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Release\version 5(UNO).csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Release\version 5(UNO).exe
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Release\version 5(UNO).pdb
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Release\version 5(UNO).csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\28\version 5(UNO)\obj\x86\Release\version 5(UNO).exe
+C:\Users\Javier\Desktop\29\version 5(UNO)\bin\Release\version 5(UNO).exe
+C:\Users\Javier\Desktop\29\version 5(UNO)\bin\Release\version 5(UNO).pdb
+C:\Users\Javier\Desktop\29\version 5(UNO)\obj\x86\Release\version 5(UNO).csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\29\version 5(UNO)\obj\x86\Release\Form1.Form1.resources
+C:\Users\Javier\Desktop\29\version 5(UNO)\obj\x86\Release\Form1.Partida.resources
+C:\Users\Javier\Desktop\29\version 5(UNO)\obj\x86\Release\Form1.Properties.Resources.resources
+C:\Users\Javier\Desktop\29\version 5(UNO)\obj\x86\Release\version 5(UNO).csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\29\version 5(UNO)\obj\x86\Release\version 5(UNO).exe
+C:\Users\Javier\Desktop\29\version 5(UNO)\obj\x86\Release\version 5(UNO).pdb
+C:\Users\Javier\Desktop\sofinal\version 5(UNO)\obj\x86\Release\version 5(UNO).csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\sofinal\version 5(UNO)\obj\x86\Release\Form1.Form1.resources
+C:\Users\Javier\Desktop\sofinal\version 5(UNO)\obj\x86\Release\Form1.Partida.resources
+C:\Users\Javier\Desktop\sofinal\version 5(UNO)\obj\x86\Release\Form1.Properties.Resources.resources
+C:\Users\Javier\Desktop\sofinal\version 5(UNO)\obj\x86\Release\version 5(UNO).csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\sofinal\version 5(UNO)\obj\x86\Release\version 5(UNO).exe

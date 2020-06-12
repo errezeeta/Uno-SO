@@ -1,0 +1,18 @@
+C:\Users\ricar\Desktop\Version final (o no)\version 5(UNO)\obj\x86\Debug\version 5(UNO).exe
+C:\Users\ricar\Desktop\Version final (o no)\version 5(UNO)\obj\x86\Debug\version 5(UNO).pdb
+C:\Users\ricar\Desktop\Version final (o no)\version 5(UNO)\bin\Debug\version 5(UNO).exe
+C:\Users\ricar\Desktop\Version final (o no)\version 5(UNO)\bin\Debug\version 5(UNO).pdb
+C:\Users\ricar\Desktop\Version final (o no)\version 5(UNO)\obj\x86\Debug\version 5(UNO).csprojResolveAssemblyReference.cache
+C:\Users\ricar\Desktop\Version final (o no)\version 5(UNO)\obj\x86\Debug\Form1.Form1.resources
+C:\Users\ricar\Desktop\Version final (o no)\version 5(UNO)\obj\x86\Debug\Form1.Partida.resources
+C:\Users\ricar\Desktop\Version final (o no)\version 5(UNO)\obj\x86\Debug\Form1.Properties.Resources.resources
+C:\Users\ricar\Desktop\Version final (o no)\version 5(UNO)\obj\x86\Debug\version 5(UNO).csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\version 5(UNO).exe
+C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\version 5(UNO).pdb
+C:\Users\Javier\Desktop\finalfina\version 5(UNO)\bin\Debug\version 5(UNO).exe
+C:\Users\Javier\Desktop\finalfina\version 5(UNO)\bin\Debug\version 5(UNO).pdb
+C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\version 5(UNO).csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\Form1.Form1.resources
+C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\Form1.Partida.resources
+C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\Form1.Properties.Resources.resources
+C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\version 5(UNO).csproj.GenerateResource.Cache

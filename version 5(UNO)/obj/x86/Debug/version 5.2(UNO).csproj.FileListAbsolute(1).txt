@@ -1,0 +1,8 @@
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).exe
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\version 5(UNO).pdb
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\bin\Debug\version 5(UNO).exe
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\bin\Debug\version 5(UNO).pdb
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\Form1.Form1.resources
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\Form1.Partida.resources
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\Form1.Properties.Resources.resources
+C:\Users\Javier\Desktop\noche\version 5.1(UNO)\version 5(UNO)\obj\x86\Debug\version 5.2(UNO).csproj.GenerateResource.Cache
