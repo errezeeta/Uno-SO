@@ -16,3 +16,5 @@ C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\Form1.Form1.resou
 C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\Form1.Partida.resources
 C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\Form1.Properties.Resources.resources
 C:\Users\Javier\Desktop\finalfina\version 5(UNO)\obj\x86\Debug\version 5(UNO).csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\Uno SO\version 5(UNO)\obj\x86\Debug\version 5(UNO).exe
+C:\Users\Javier\Desktop\Uno SO\version 5(UNO)\obj\x86\Debug\version 5(UNO).pdb
